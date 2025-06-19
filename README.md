@@ -1,4 +1,4 @@
-# 📊 Trabajo Práctico 1 y 2 - Algoritmos III
+# 📊 Trabajo Práctico 1 y 2 - Ciencia de datos
 
 Este repositorio contiene los trabajos prácticos **TP1** y **TP2** realizados para la materia **Ciencia de datos** (2° cuatrimestre 2023). Ambos forman parte de una secuencia de entregas académicas enfocadas en la aplicación práctica de algoritmos de machine learning, análisis de datos y construcción de modelos predictivos.
 
