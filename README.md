@@ -1,5 +1,35 @@
-# prediction-classification-model
-📁 Predicción de Reservas de Hotel:  
- Este proyecto consiste en el desarrollo de modelos de machine learning para predecir si una reserva de hotel será cancelada o no, utilizando un conjunto de datos reales. Se realizó un análisis exploratorio de datos (EDA), tratamiento de valores faltantes, codificación de variables categóricas y selección de atributos relevantes. Posteriormente se entrenaron y compararon distintos modelos: árboles de decisión, random forest, XGBoost y redes neuronales.  Características clave:  Análisis exploratorio con visualizaciones de correlaciones y distribución de variables.  Ingeniería de características para mejorar la capacidad predictiva del modelo.  Implementación y ajuste de hiperparámetros con técnicas como Grid Search.  Evaluación de modelos usando métricas como accuracy, precision, recall y F1-score.  Tecnologías: Python, Pandas, Matplotlib, Scikit-learn, XGBoost, Keras, Jupyter Notebook.  
-📁 Clasificación de Reseñas de Películas (Sentimiento Positivo/Negativo): 
- El objetivo de este trabajo práctico fue construir un sistema de clasificación automática de reseñas de películas en base a su sentimiento (positivo o negativo), utilizando técnicas de procesamiento de lenguaje natural (NLP) y aprendizaje automático. Se trabajó con un corpus etiquetado, aplicando preprocesamiento, vectorización (TF-IDF) y entrenamiento de modelos supervisados.  Características clave:  Preprocesamiento de texto: normalización, remoción de stopwords y lematización.  Vectorización con TF-IDF para representar reseñas como vectores numéricos.  Entrenamiento de clasificadores como Naive Bayes, SVM y redes neuronales simples.  Evaluación con matrices de confusión y curvas ROC.  Tecnologías: Python, NLTK, Scikit-learn, Keras, TensorFlow, Jupyter Notebook.
+# 📊 Trabajo Práctico 1 y 2 - Algoritmos III
+
+Este repositorio contiene los trabajos prácticos **TP1** y **TP2** realizados para la materia **Ciencia de datos** (2° cuatrimestre 2023). Ambos forman parte de una secuencia de entregas académicas enfocadas en la aplicación práctica de algoritmos de machine learning, análisis de datos y construcción de modelos predictivos.
+
+## 🎯 Objetivos generales
+
+- **TP1**: Prediccion de reservas de hotel. Preprocesamiento de datos, análisis exploratorio y modelos de prediccion. Optimización de modelos, aplicación de métricas de evaluación avanzadas y ajuste fino de hiperparámetros
+- **TP2**: Analisis de sentimientos, positivo/negativo según reseñas. Aplicando mismas metodologias pero utilizando diferentes herramientas de analisis de lenguaje, vectorizacion, etc.
+
+Estos trabajos se desarrollaron bajo un esquema de **entregas por checkpoints** periódicos, donde se presentaban avances parciales para su revisión por parte de los docentes.
+
+## 🧰 Herramientas utilizadas
+
+- Python
+- Jupyter Notebooks
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- XGBoost
+- SHAP
+- JupyterLab / Google Colab
+
+## 📁 Estructura del repositorio
+
+- Notebooks correspondientes a cada checkpoint del TP1 y TP2.
+- Archivos PDF con los informes y entregas intermedias.
+- Recursos gráficos y árboles de decisión.
+- Informe final consolidado con conclusiones y justificación de decisiones tomadas.
+
+## 👨‍🏫 Modalidad Académica
+
+Este trabajo fue realizado en grupo como parte de la cursada formal de **Algoritmos y Programación III** y está orientado a mostrar capacidades técnicas, análisis crítico y claridad en la comunicación de resultados.
+
+---
+
